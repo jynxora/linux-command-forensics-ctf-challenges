@@ -73,4 +73,7 @@ Find the hidden flag message in `.txt` files recursively.
 
 For DOCUMENTATION and SUMMARY Methodology/Template;
 
-Refer to my Report here [PDF+Markdown]: [REPORT]()
+### 📘 My Documentation 
+  View PDF: [Report](https://github.com/jynxora/linux-command-forensics-ctf-challenges/blob/main/Documentation/LinuxCommandsFlagTest.pdf)
+  
+  Download PDF: [Download](https://github.com/jynxora/linux-command-forensics-ctf-challenges/raw/main/Documentation/LinuxCommandsFlagTest.pdf)
