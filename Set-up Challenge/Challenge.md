@@ -15,6 +15,35 @@ chmod +x setup_ctf_flag_challenge.sh
 4. Ready to go.
 ---
 
+## 📁 Structure
+CTF-Lite/
+
+├── challenge3/
+
+│   └── root_docs/
+
+│       └── top_secret.pdf
+
+├── notes/
+
+│   └── command_practice.md
+
+├── staging/
+
+│   ├── vault/
+
+│   │   ├── passwd_shadow
+
+│   │   ├── root_exploit.sh
+
+│   │   └── .ssh/id_rsa
+
+│   └── secrets/.invisible.txt
+
+└── wwwfile
+
+---
+
 ### Challenge 1: The Wide Open Door 🚪
 
 **Prompt:**
