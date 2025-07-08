@@ -37,6 +37,7 @@ CTF-Lite/
 - Find files with no read/write/execute permissions
 - Recursively extract hidden flags inside `.txt` files
 
-## To craete the challenge and perform by yourself: [Challenge File](https://github.com/jynxora/linux-command-forensics-ctf-challenges/tree/main/Set-up%20Challenge)
+
+### To create the Challenge and Perform by yourself: [ChallengeFile](https://github.com/jynxora/linux-command-forensics-ctf-challenges/tree/main/Set-up%20Challenge)
 
 > Designed and documented by [@jynxora](https://www.linkedin.com/in/jynxora) as part of the 700 Days of Skill journey.
