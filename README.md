@@ -28,7 +28,8 @@ We didn't just practice commands — we created puzzles around them:
 
 ### 🔐 To create the Challenge and Perform by yourself: [ChallengeFile](https://github.com/jynxora/linux-command-forensics-ctf-challenges/tree/main/Set-up%20Challenge)
 ### 📘 My Documentation 
-  PDF: [Report]()
-  DOWNLOAD PDF: [Download]()
+  View PDF: [Report](https://github.com/jynxora/linux-command-forensics-ctf-challenges/blob/main/Documentation/LinuxCommandsFlagTest.pdf)
+  
+  Download PDF: [Download](https://github.com/jynxora/linux-command-forensics-ctf-challenges/raw/main/Documentation/LinuxCommandsFlagTest.pdf)
 
 > Designed and documented by [@jynxora](https://www.linkedin.com/in/jynxora) as part of the 700 Days of Skill journey.
