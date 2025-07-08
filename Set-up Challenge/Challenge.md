@@ -42,5 +42,6 @@ Find the hidden flag message in `.txt` files recursively.
 
 ---
 
-For documentation and sumamry documenation and methodology 
+For documentation and sumamry documenation and methodology,
+
 Refer to my documenation here [PDF+Markdown]: [PDF+MD]()
