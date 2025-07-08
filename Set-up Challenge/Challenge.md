@@ -73,4 +73,4 @@ Find the hidden flag message in `.txt` files recursively.
 
 For DOCUMENTATION and SUMMARY Methodology/Template;
 
-Refer to my documenation here [PDF+Markdown]: [PDF+MD]()
+Refer to my Report here [PDF+Markdown]: [PDF+MD]()
