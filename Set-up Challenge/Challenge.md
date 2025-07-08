@@ -4,7 +4,7 @@
 ## How to Set-up the challenge?
 🧰 Usage Instructions:
 
-1.Save the file: setup_challenge.sh
+1. Save the file: setup_challenge.sh
 
 2. **Paste the script**, save (`Ctrl+O` → `Enter` → `Ctrl+X`)
   
