@@ -5,17 +5,29 @@ All tasks are set within a simulated directory structure with varying permission
 
 ## 📁 Structure
 CTF-Lite/
+
 ├── challenge3/
+
 │   └── root_docs/
+
 │       └── top_secret.pdf
+
 ├── notes/
+
 │   └── command_practice.md
+
 ├── staging/
+
 │   ├── vault/
+
 │   │   ├── passwd_shadow
+
 │   │   ├── root_exploit.sh
+
 │   │   └── .ssh/id_rsa
+
 │   └── secrets/.invisible.txt
+
 └── wwwfile
 
 ## 🧩 Challenges Coveres:
