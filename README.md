@@ -38,6 +38,7 @@ CTF-Lite/
 - Recursively extract hidden flags inside `.txt` files
 
 
-### To create the Challenge and Perform by yourself: [ChallengeFile](https://github.com/jynxora/linux-command-forensics-ctf-challenges/tree/main/Set-up%20Challenge)
+### 🔐 To create the Challenge and Perform by yourself: [ChallengeFile](https://github.com/jynxora/linux-command-forensics-ctf-challenges/tree/main/Set-up%20Challenge)
+### 📘 My Documentation [PDF + .md]: [Report]()
 
 > Designed and documented by [@jynxora](https://www.linkedin.com/in/jynxora) as part of the 700 Days of Skill journey.
