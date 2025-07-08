@@ -37,4 +37,4 @@ CTF-Lite/
 - Find files with no read/write/execute permissions
 - Recursively extract hidden flags inside `.txt` files
 
-> Designed and documented by [@jynxora](https://x.com/jynxora) as part of the 700 Days of Skill journey.
+> Designed and documented by [@jynxora](https://x.com/JynxZero) as part of the 700 Days of Skill journey.
