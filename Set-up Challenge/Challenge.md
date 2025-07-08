@@ -9,7 +9,6 @@
 2. **Paste the script**, save (`Ctrl+O` → `Enter` → `Ctrl+X`)
   
 3. **Make it executable & run:**
-
 chmod +x setup_ctf_flag_challenge.sh
 ./setup_ctf_flag_challenge.sh
 
