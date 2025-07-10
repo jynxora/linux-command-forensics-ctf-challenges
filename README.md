@@ -1,4 +1,4 @@
-# 🔐 Linux Command Flag Challenge — CTF-Lite
+# 🔐 Linux Command Flag Challenge — CTF Challenge-2
 
 This mini-CTF was designed to test and improve practical Linux command-line skills through hidden flags, suspicious file permissions, and forensic-style searches. 
 All tasks are set within a simulated directory structure with varying permissions, ownerships, and file types.
